@@ -1,0 +1,12 @@
+{
+  "include": [
+    "src/**/*.ts", 
+    "src/**/*.js", "src/permissions/imageController.js", 
+  ],
+  "exclude": [
+    "node_modules",
+    "<node_internals>/**",
+    "bin/**"
+  ],
+  "extends": "@react-native/typescript-config/tsconfig.json",
+}

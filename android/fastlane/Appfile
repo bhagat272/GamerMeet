@@ -1,0 +1,2 @@
+json_key_file('/Users/appsketiers/builds/Uxhs_EzoJ/0/react-native/gamermeet/android/fastlane/google-play-key.json')
+package_name('com.gamermeet')

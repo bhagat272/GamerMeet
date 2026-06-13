@@ -1,0 +1,10 @@
+{
+  "name": "GamerMeet",
+  "displayName": "GamerMeet",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-5809470103488531~3295287649",
+    "ios_app_id": "ca-app-pub-5809470103488531~3347258534",
+    "delay_app_measurement_init": false,
+    "user_tracking_usage_description": "This identifier will be used to deliver personalized ads to you."
+  }
+}

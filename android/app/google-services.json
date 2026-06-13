@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1022378135883",
+    "project_id": "gamermeet",
+    "storage_bucket": "gamermeet.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022378135883:android:a1d402af4bbccc26bbd8ce",
+        "android_client_info": {
+          "package_name": "com.gamermeet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG0gbwW_qujCxttYZmRE7v3-DIwBdXO9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
